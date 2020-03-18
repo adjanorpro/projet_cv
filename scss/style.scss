@@ -342,10 +342,11 @@
   }
 }
 
-/* recommandations */
+/* recommendations */
 
-#recommandations {
+#recommendations {
   background:var(--background);
+  height:100px;
   .heading h2 {
     color: var(--light);
   }
